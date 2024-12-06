@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|c:\\users\\acer\\desktop\\nam ba\\net\\final\\quanlythuvien\\quanlythuvien\\nhaxuatbann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\nhaxuatbann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\nhaxuatbann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\nhaxuatbann.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\tacgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\muontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\muontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\muontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\muontrasach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\loaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\doimatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\quanlythuvien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAADE741-AA49-41E3-8A00-DD2FD6D17B30}|QuanLyThuVien\\QuanLyThuVien.csproj|solutionrelative:quanlythuvien\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TacGia.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TacGia.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\TacGia.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TacGia.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\TacGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.787Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Sach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\Sach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Sach.cs",
+              "RelativeToolTip": "QuanLyThuVien\\Sach.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.785Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrangChu.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangChu.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangChu.cs",
+              "RelativeToolTip": "QuanLyThuVien\\TrangChu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwDwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrangNhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\TrangNhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangNhanVien.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\TrangNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:50:32.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangChu.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangChu.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T17:47:18.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\App.config",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\App.config",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\App.config",
+              "RelativeToolTip": "QuanLyThuVien\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-18T12:47:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Sach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\Sach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Sach.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\Sach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrangNhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangNhanVien.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\TrangNhanVien.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\TrangNhanVien.cs",
+              "RelativeToolTip": "QuanLyThuVien\\TrangNhanVien.cs",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAowNwBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:53:42.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhaXuatBann.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\NhaXuatBann.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\NhaXuatBann.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\NhaXuatBann.cs",
+              "RelativeToolTip": "QuanLyThuVien\\NhaXuatBann.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhaXuatBann.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\NhaXuatBann.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\NhaXuatBann.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\NhaXuatBann.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\NhaXuatBann.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Login.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Login.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaiSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\LoaiSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\LoaiSach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\LoaiSach.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\LoaiSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Login.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\Login.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Login.cs",
+              "RelativeToolTip": "QuanLyThuVien\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoaiSach.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\LoaiSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\LoaiSach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\LoaiSach.cs",
+              "RelativeToolTip": "QuanLyThuVien\\LoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuonTraSach.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\MuonTraSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\MuonTraSach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\MuonTraSach.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\MuonTraSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoiMatKhau.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\DoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\DoiMatKhau.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien\\DoiMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\Program.cs",
+              "RelativeToolTip": "QuanLyThuVien\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoiMatKhau.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\DoiMatKhau.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\DoiMatKhau.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\DoiMatKhau.cs",
+              "RelativeToolTip": "QuanLyThuVien\\DoiMatKhau.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIA7wDoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MuonTraSach.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\MuonTraSach.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien\\MuonTraSach.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\nam ba\\NET\\final\\QuanLyThuVien\\QuanLyThuVien\\MuonTraSach.cs",
+              "RelativeToolTip": "QuanLyThuVien\\MuonTraSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:42:04.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
